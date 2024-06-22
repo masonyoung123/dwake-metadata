@@ -1,0 +1,7 @@
+{
+  "name": "Dwake",
+  "symbol": "DWK",
+  "uri": "https://example.com/token-metadata.json", // Update with your hosted metadata URL
+  "seller_fee_basis_points": 0,
+  "creators": null
+}
